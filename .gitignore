@@ -3,6 +3,7 @@
 .DS_Store
 .vscode
 __pycache__/
+media/
 .env
 .editorconfig
 db.sqlite3
